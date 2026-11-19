@@ -3,7 +3,7 @@ name: Test patches
 on:
   push:
     branches:
-      - 9.2.x
+      - proof-776-9.2.x
   pull_request:
     branches:
       - 9.2.x
