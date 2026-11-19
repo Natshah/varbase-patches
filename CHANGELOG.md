@@ -6,6 +6,8 @@ Each release lists the commits — merged pull requests and the drupal.org issue
 
 ## [Unreleased]
 
+- Add a patch for the Schema.org Blueprints module on fix: #3629683 Replace the case statements followed by a semicolon, deprecated in PHP 8.5: Schema.org Blueprints 1.0.0-alpha39 still has two `default;` labels, deprecated on PHP 8.5; from upstream MR [!326](https://git.drupalcode.org/project/schemadotorg/-/merge_requests/326), applied after the mr-325 patch ([#3629683](https://git.drupalcode.org/project/schemadotorg/-/work_items/3629683), [#771](https://github.com/Vardot/varbase-patches/issues/771))
+
 ## [10.1.99] - 2026-11-19
 
 - Change a patch for the Layout library module on fix: #3561874 corrected SupportAwareSectionStorageInterface namespace for Varbase 10.1.x: `layout_library--2026-01-21--3561874--mr-21.patch` imported `Drupal\layout_builder\SectionStorage\SupportAwareSectionStorageInterface`, which does not exist, so the `Library` section storage plugin never loaded and `/admin/structure/layouts` returned HTTP 500 on every fresh Varbase 10.1.x site. `10.1.x` now uses `layout_library--2026-07-02--3561874--mr-21.patch`, the corrected file 9.2.x already uses ([#3561874](https://git.drupalcode.org/project/layout_library/-/work_items/3561874), [#761](https://github.com/Vardot/varbase-patches/issues/761))
