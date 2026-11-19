@@ -3,7 +3,7 @@ name: Test patches
 on:
   push:
     branches:
-      - 10.1.x
+      - proof-767-10.1.x
   pull_request:
     branches:
       - 10.1.x
