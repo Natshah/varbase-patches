@@ -66,8 +66,8 @@
                 "Issue #3367477: Fix Error: Call to undefined method getFilteredComponentTypes()": "https://www.drupal.org/files/issues/2023-06-18/3367477-11.patch"
             },
             "drupal/entity_embed": {
-                "Issue #3070343: Allow to add a Drupal core link with Link Widget for Image entities using Entity Embed Dialog in CKEditor": "https://raw.githubusercontent.com/Vardot/varbase-patches/refs/heads/patches/entity_embed--2026-11-20--3070343--reroll-1.8.0.patch",
-                "Issue #2679875: Inline Entity Form integration": "https://raw.githubusercontent.com/Vardot/varbase-patches/refs/heads/patches/entity_embed--2026-11-20--2679875--reroll-1.8.0.patch"
+                "Issue #3070343: Allow to add a Drupal core link with Link Widget for Image entities using Entity Embed Dialog in CKEditor": "https://raw.githubusercontent.com/Natshah/varbase-patches/refs/heads/776-entity-embed-1.8.0-patch-files/entity_embed--2026-11-20--3070343--reroll-1.8.0.patch",
+                "Issue #2679875: Inline Entity Form integration": "https://raw.githubusercontent.com/Natshah/varbase-patches/refs/heads/776-entity-embed-1.8.0-patch-files/entity_embed--2026-11-20--2679875--reroll-1.8.0.patch"
             },
             "drupal/layout_library": {
                 "fix: #3075067 Duplicate entry for key 'block_content_field__uuid__value'": "https://raw.githubusercontent.com/vardot/varbase-patches/refs/heads/patches/layout_library--2026-01-21--3075067--mr-1.patch",
