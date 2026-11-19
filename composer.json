@@ -55,8 +55,8 @@
                 "Issue #3419073: Fix Return value must be of type bool fatal error": "https://raw.githubusercontent.com/Vardot/varbase-patches/refs/heads/patches/rabbit_hole--2026-07-06--3419073--mr-65.patch"
             },
             "drupal/entity_embed": {
-                "Issue #3070343: Allow to add a Drupal core link with Link Widget for Image entities using Entity Embed Dialog in CKEditor": "https://raw.githubusercontent.com/Vardot/varbase-patches/refs/heads/patches/entity_embed--2026-11-20--3070343--reroll-1.8.0.patch",
-                "Issue #2679875: Inline Entity Form integration": "https://raw.githubusercontent.com/Vardot/varbase-patches/refs/heads/patches/entity_embed--2026-11-20--2679875--reroll-1.8.0.patch"
+                "Issue #3070343: Allow to add a Drupal core link with Link Widget for Image entities using Entity Embed Dialog in CKEditor": "https://raw.githubusercontent.com/Natshah/varbase-patches/refs/heads/776-entity-embed-1.8.0-patch-files/entity_embed--2026-11-20--3070343--reroll-1.8.0.patch",
+                "Issue #2679875: Inline Entity Form integration": "https://raw.githubusercontent.com/Natshah/varbase-patches/refs/heads/776-entity-embed-1.8.0-patch-files/entity_embed--2026-11-20--2679875--reroll-1.8.0.patch"
             },
             "drupal/redirect": {
                 "Issue #2879648: Redirects from aliased paths aren't triggered (Drupal 11.4, RedirectPathProcessorManager approach)": "https://raw.githubusercontent.com/vardot/varbase-patches/refs/heads/patches/redirect--2026-07-05--2879648--mr-202.patch"
