@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 11.0.x
+      - proof-781-11.0.x
   pull_request:
     branches:
       - 11.0.x
